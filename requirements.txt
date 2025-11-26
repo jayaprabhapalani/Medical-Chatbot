@@ -1,0 +1,12 @@
+langchain
+langchain-core
+langchain-community
+pypdf
+pymupdf
+flask==3.1.1
+sentence-transformers==4.1.0
+python-dotenv==1.0.0
+langchain-pinecone==0.2.8
+langchain-google-genai
+-e .
+
